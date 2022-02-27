@@ -1,7 +1,7 @@
 # itch-css
 The custom CSS I use on itch.io.
 
-## Profile page
+## [Profile page](https://javacakegames.itch.io/)
 
 Pale Ukraine flag background. Temporary, during 2022 Russian invasion.
 
@@ -20,7 +20,7 @@ Pale Ukraine flag background. Temporary, during 2022 Russian invasion.
 }
 ```
 
-## Ghostta Go!
+## [Ghostta Go!](https://javacakegames.itch.io/ghostta)
 
 Adds subtly-animated text above the game in a custom font.
 
@@ -65,7 +65,7 @@ Adds subtly-animated text above the game in a custom font.
 }
 ```
 
-## Slimy Machines
+## [Slimy Machines](https://javacakegames.itch.io/slimy-machines)
 
 ```css
 a.custom-hiddenLink {
