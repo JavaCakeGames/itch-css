@@ -22,7 +22,7 @@ Pale Ukraine flag background. Temporary, during 2022 Russian invasion.
 
 ## [Ghostta Go!](https://javacakegames.itch.io/ghostta)
 
-Adds subtly-animated text above the game in a custom font.
+Adds subtly-animated text above the game in a custom font. Also classes that are displayed only on PC or mobile respectively.
 
 ```css
 #header::before {
