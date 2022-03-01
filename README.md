@@ -3,7 +3,7 @@ The custom CSS I use on itch.io.
 
 ## [Profile page](https://javacakegames.itch.io/)
 
-Pale Ukraine flag background. Temporary, during 2022 Russian invasion.
+Pale Ukraine flag background. Temporary, during 2022 Russian invasion. Use with white background.
 
 ```css
 .user_page_wrap::before {
@@ -77,3 +77,7 @@ a.custom-hiddenLink {
   display: inline-block;
 }
 ```
+
+## How to get CSS access
+
+https://itch.io/docs/creators/css-guide#getting-css-access
