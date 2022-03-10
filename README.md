@@ -17,6 +17,7 @@ Pale Ukraine flag background. Temporary, during 2022 Russian invasion. Use with 
   background-size: 100% 100%;
   opacity: 10%;
   background-attachment: fixed;
+  pointer-events: none;
 }
 ```
 
