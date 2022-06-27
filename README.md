@@ -21,6 +21,16 @@ Pale Ukraine flag background. Temporary, during 2022 Russian invasion. Use with 
 }
 ```
 
+Make "GIF" notice less prominent so as to obscure the game cover images a little less.
+
+```css
+.gif_label {
+  top: 0 !important;
+  left: 0 !important;
+  border-radius: 0 0 8px 0 !important;
+}
+```
+
 ## [Ghostta Go!](https://javacakegames.itch.io/ghostta)
 
 Adds subtly-animated text above the game in a custom font. Also classes that are displayed only on PC or mobile respectively.
