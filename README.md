@@ -31,6 +31,19 @@ Make "GIF" notice less prominent so as to obscure the game cover images a little
 }
 ```
 
+Move "supported by" section to the end of the page. Replace ID with your own.
+
+```css
+#user_9449176 {
+  display: flex;
+  flex-direction: column;
+}
+
+.purchased_games {
+  order: 9;
+}
+```
+
 ## [Ghostta Go!](https://javacakegames.itch.io/ghostta)
 
 Adds subtly-animated text above the game in a custom font. Also classes that are displayed only on PC or mobile respectively.
