@@ -31,10 +31,10 @@ Make "GIF" notice less prominent so as to obscure the game cover images a little
 }
 ```
 
-Move "supported by" section to the end of the page. Replace ID with your own.
+Move "supported by" section to the end of the page.
 
 ```css
-#user_9449176 {
+.user_page {
   display: flex;
   flex-direction: column;
 }
